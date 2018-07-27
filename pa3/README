@@ -1,0 +1,15 @@
+Ethan Cox
+etecox
+pa3
+README
+Describes the files to be turned in
+
+Sparse.java:  Handles the IO for the project.  Takes in two matrices from the input file, computes the necessary calculations using MatrixADT, and prints the results to the output file, out.
+
+Matrix.java:  Uses the ListADT to create a Matrix.  The Matrix is an array of lists.  Preforms different Matrix operations, and contains a toString() function  to print out the Matrix.
+
+List.java:  Implementation of the ListADT, but done using Objects.  Contains a private inner node class, various access and Manipulation functions.
+
+MatrixTest.java:  Tests the Matrix ADT. Creates two matrices and preforms all functions testing for desired output.
+
+ListTest.java:  Tests the List ADT. Creates three Lists and tests all List.java functions for desired output.

@@ -1,0 +1,13 @@
+Ethan Cox
+etecox
+pa1
+README
+Describes the files to be submitted
+
+List.java:  Implements the List ADT using a linked list.  Used in the Lex.java file
+
+ListClient.java:  Runs/tests the List implementation
+
+Lex.java: takes in a file containing strings from one to n, sorts them lexicographically and prints them to an output file
+
+Makefile:  Makes the project into an excecutable file called Lex

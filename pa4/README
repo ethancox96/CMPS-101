@@ -1,0 +1,19 @@
+Ethan Cox
+etecox
+pa4
+README
+Describes all files to be turned in
+
+List.h:  Header file for the ListADT
+
+List.c:  Implementation of the ListADT, creates a doubly linked list of nodes and provies access and manipulation functions.
+
+Graph.h:  Header file for the GraphADT
+
+Graph.c: Implementations of the GraphADT.  Done using an adjacency list representation of a graph.  Has access and manipulation functions.
+
+GraphTest.c:  Tests the functions of Graph.c in isolation.
+
+FindPath.c:  Handles input and output.  Uses Graph.c functions to compute the distance of a path between two vertices and also prints out the sortest path between the vertices provided one exists.
+
+Makefile:  Makes the files into an excecutable called FindPath

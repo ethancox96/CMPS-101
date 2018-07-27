@@ -1,0 +1,14 @@
+Ethan Cox
+etecox
+pa2
+README
+
+List.h:  Header file for the ListADT
+
+List.c:  Implementation of the ListADT
+
+Lex.c:  Sorts the input file Lexicographically and prints it out.  Done using the list instructions and two Lists.
+
+Makefile:  Makes the files into an executable called Lex.
+
+ListClient.c:  Runs a test of the list
